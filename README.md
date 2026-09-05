@@ -31,6 +31,7 @@ Internally, continuity, interpretation, authority, orchestration, execution, evi
 6. [`docs/05_MEANING_LEDGER_AND_PROVENANCE.md`](docs/05_MEANING_LEDGER_AND_PROVENANCE.md)
 7. [`docs/06_METRICS_AND_VALIDATION.md`](docs/06_METRICS_AND_VALIDATION.md)
 8. [`docs/07_DECISION_REGISTER_AND_BACKLOG.md`](docs/07_DECISION_REGISTER_AND_BACKLOG.md)
+9. [`docs/08_UPDATE_RECORD_2026-09-05.md`](docs/08_UPDATE_RECORD_2026-09-05.md)
 
 ## Governing product principles
 
